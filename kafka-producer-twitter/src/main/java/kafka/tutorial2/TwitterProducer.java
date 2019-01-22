@@ -25,10 +25,10 @@ public class TwitterProducer {
 
     Logger logger = LoggerFactory.getLogger(TwitterProducer.class.getName());
 
-    String consumerKey = "MxPyrjV5NbALJf6rW7VpoUCE0";
-    String consumerSecret = "hE5S7RYm3uZLwktENCGuxDY9cCS0UvT9Kdow7YFEOjQED0SHUp";
-    String token = "1086128348105850880-OY0WCJh9FaKhstRe5JeCbkTFPgnqcD";
-    String secret = "Y7XV7A8BtjOvnjIcHZFY4c3e3vTdPJkGtYgbF8s9rbxjD";
+    String consumerKey = "WdaVx2NmB3NeYB9yxcygYgADj";
+    String consumerSecret = "w5c3GFINR6Orkvowwa3IQTTJjuGB2iUjzYdY2es3gfw3YoilXR";
+    String token = "1086128348105850880-X09awwcxmOJQls5Tk7woOObI8r6zMr";
+    String secret = "9W9fRYFPLr5zm9B776JSQK5Pi0PhoMa4S4ghvr8j0PdOb";
 
     List<String> terms = Lists.newArrayList("bitcoin", "usa", "politics", "sport", "soccer");
 
